@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+
+
+venv/
+
+
+phys-val.csv
+
+
+*.log
